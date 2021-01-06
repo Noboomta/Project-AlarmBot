@@ -1,0 +1,8 @@
+{
+    "javascript.suggestionActions.enabled": false,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2D2364",
+        "titleBar.activeBackground": "#3F328B",
+        "titleBar.activeForeground": "#FAF9FD"
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "events": [
+    {
+      "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
+      "type": "message",
+      "timestamp": 1462629479859,
+      "source": {
+        "type": "user",
+        "userId": "U4af4980629..."
+      },
+      "message": {
+        "id": "325708",
+        "type": "text",
+        "text": "Hello, world"
+      }
+    }
+  ]
+}
+
+{
+  events: [
+    {
+      type: 'message',
+      replyToken: '85abcd0959e94b95b9518b663ff63166',
+      source: [Object],
+      timestamp: 1595003739931,
+      mode: 'active',
+      message: [Object]
+    }
+  ],
+  destination: 'U5419448faef68ea83d6da144c78fdfe2'
+}
+
+{
+  type: 'message',
+  replyToken: 'cab999309dbb43378e4c644a1b3bd3f6',
+  source: { userId: 'Ue1574cf9ebefeff84d982c48d275366a', type: 'user' },
+  timestamp: 1595003959135,
+  mode: 'active',
+  message: { type: 'text', id: '12336874522264', text: '3' }
+}
+
+/*** ngrok http -region=jp 5000 */
